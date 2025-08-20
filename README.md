@@ -1,3 +1,3 @@
-#este es mi parte 
+#READ ME
 
-yo soy iroman
+Proyecto RED NOVA de IPP 7mo 4ta
